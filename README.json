@@ -1,0 +1,391 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Samples",
+          "description": "Samples demonstrating the use of various Fuse and FuseJS APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-04-08T12:43:40Z",
+            "owner": "fuse-open",
+            "repo": "fuse-samples",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tour De Fuse",
+          "description": "The sample for introducing functions of the Fuse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-03-24T08:12:33Z",
+            "owner": "englekk",
+            "repo": "TourDeFuse",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fuse Samples",
+          "description": "A collection of smaller examples using the various features of Fuse and FuseJS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-04-08T12:43:40Z",
+            "owner": "fuse-open",
+            "repo": "fuse-samples",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "11t",
+          "description": "11t is an iOS and Android app for connecting to Mastodon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-04-26T12:41:51Z",
+            "owner": "jeroensmeets",
+            "repo": "11t",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firebase",
+          "description": "Firebase bindings for Fuse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Uno",
+            "last_commit": "2019-10-09T16:23:18Z",
+            "owner": "fuse-compound",
+            "repo": "Fuse.Firebase",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "500px Gallery Demo",
+          "description": "Nifty gallery demo app using 500px API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-07-23T20:38:15Z",
+            "owner": "jveres",
+            "repo": "D500px",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hikr",
+          "description": "An example app case to accompany Fuse's end-to-end tutorial.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-09T12:59:35Z",
+            "owner": "fuse-open",
+            "repo": "hikr",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fuse PM",
+          "description": "A Fusetools package manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-28T11:17:27Z",
+            "owner": "bolav",
+            "repo": "fusepm",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haxe",
+          "description": "Haxe compiler for Fuse tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haxe",
+            "last_commit": "2015-10-19T21:57:01Z",
+            "owner": "elsassph",
+            "repo": "fusetools-haxe",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fuse Tags with Firebase",
+          "description": "Simple Tags app. Adds and retrieves tags from Firebase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-06-27T16:05:46Z",
+            "owner": "LuisRodriguezLD",
+            "repo": "Fuse-Tags-with-Firebase",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Motion",
+          "description": "iOS accelerometer, gyroscope, magnetometer readings and more for Fuse.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Objective-C++",
+            "last_commit": "2017-07-10T15:35:18Z",
+            "owner": "AlexGustafsson",
+            "repo": "fuse-motion",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityAds Sample",
+          "description": "Simple example of integration UnityAds with Fuse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2016-11-10T00:12:02Z",
+            "owner": "englekk",
+            "repo": "Fusetools_UnityAdsSample",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fuse Pokedex",
+          "description": "A Pokedex created using Fuse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-10-25T23:54:59Z",
+            "owner": "franzsilva",
+            "repo": "FusePokeDex",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Syncano",
+          "description": "Simple example of integration Syncano with Fuse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-07-13T21:34:51Z",
+            "owner": "Syncano",
+            "repo": "syncano-fuse-example",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fuse.QrScanner",
+          "description": "A small library for scanning QrCode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Uno",
+            "last_commit": "2017-02-16T11:20:03Z",
+            "owner": "kingwill101",
+            "repo": "fuse.QrScanner",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fuse Input Validation",
+          "description": "Reusable and highly functional input validation methods in Fuse components",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-01-24T11:37:13Z",
+            "owner": "mokko-labs",
+            "repo": "fuse-input-validation",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fuse Review",
+          "description": "Get reviews from your users without making them leave the app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Uno",
+            "last_commit": "2018-02-06T23:30:14Z",
+            "owner": "LuisRodriguezLD",
+            "repo": "Fuse-RequestReview",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fuse Taptic-Feedback",
+          "description": "Get access to the iPhone 7's taptic engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Uno",
+            "last_commit": "2017-10-18T20:09:35Z",
+            "owner": "LuisRodriguezLD",
+            "repo": "Fuse-TapticFeedback",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FormulaFuse",
+          "description": "Formula 1 Fuse application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-09-13T20:07:08Z",
+            "owner": "sanderdan",
+            "repo": "FormulaFuse",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Open Source"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Visual Studio Code",
+          "description": "Fuse Helper for Visual Studio Code.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2015-10-18T06:22:39Z",
+            "owner": "Nebu1eto",
+            "repo": "vscode-fuse",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atom",
+          "description": "Atom Editor plugin for Fuse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2017-11-29T10:36:37Z",
+            "owner": "fuse-open",
+            "repo": "atom-plugin",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sublime",
+          "description": "Sublime Text 3 plugin for Fuse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-11-20T07:26:33Z",
+            "owner": "fuse-open",
+            "repo": "sublime-plugin",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bash Completion",
+          "description": "Simple bash completion script for UNO.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2016-07-29T13:12:36Z",
+            "owner": "fuse-open",
+            "repo": "bash-completion",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emacs",
+          "description": "Emacs plugin for Fuse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2017-11-15T13:27:26Z",
+            "owner": "kristianhasselknippe",
+            "repo": "fuse-mode",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fuse-Log",
+          "description": "Get Fuse log messages into Visual Studio Code's output panel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-02-02T21:58:26Z",
+            "owner": "bstrr",
+            "repo": "vscode-fuse-log",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alfred Workflow",
+          "description": "Integrate Fuse on Alfred.",
+          "children": []
+        }
+      ],
+      "title": "Plugins"
+    },
+    {
+      "description": "To the extent possible under law, Fuse Compound has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T12:02:27.370Z",
+    "original_repository": "fuse-compound/awesome-fuse",
+    "original_repository_sha": "02d2a50b7444a186bf91f9bdb6529817765c44bd",
+    "enhanced_repository": "enhansome/enhansome-fuse",
+    "enhanced_repository_description": null,
+    "title": "Awesome Fuse with stars"
+  }
+}
