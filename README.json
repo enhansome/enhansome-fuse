@@ -90,7 +90,7 @@
             "last_commit": "2016-07-23T20:38:15Z",
             "owner": "jveres",
             "repo": "D500px",
-            "stars": 47
+            "stars": 46
           }
         },
         {
@@ -381,7 +381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T11:37:51.589Z",
+    "last_updated": "2026-08-17T11:44:11.556Z",
     "original_repository": "fuse-compound/awesome-fuse",
     "original_repository_sha": "02d2a50b7444a186bf91f9bdb6529817765c44bd",
     "enhanced_repository": "enhansome/enhansome-fuse",
