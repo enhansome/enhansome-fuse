@@ -306,7 +306,7 @@
             "last_commit": "2017-11-29T10:36:37Z",
             "owner": "fuse-open",
             "repo": "atom-plugin",
-            "stars": 30
+            "stars": 29
           }
         },
         {
@@ -381,7 +381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T11:44:11.556Z",
+    "last_updated": "2026-08-18T11:49:07.365Z",
     "original_repository": "fuse-compound/awesome-fuse",
     "original_repository_sha": "02d2a50b7444a186bf91f9bdb6529817765c44bd",
     "enhanced_repository": "enhansome/enhansome-fuse",

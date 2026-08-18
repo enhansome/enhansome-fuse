@@ -79,7 +79,7 @@ This list is currently unmaintained, and we are looking for a new maintainer. Se
 
 ## Development
 
-* [Samples](https://github.com/fusetools/fuse-samples/) ⭐ 182 | 🐛 12 | 🌐 Shell | 📅 2021-04-08 - Samples demonstrating the use of various Fuse and FuseJS APIs.
+* [Samples](https://github.com/fusetools/fuse-samples/) ⭐ 182 | 🐛 11 | 🌐 Shell | 📅 2021-04-08 - Samples demonstrating the use of various Fuse and FuseJS APIs.
 * [Tour De Fuse](https://github.com/englekk/TourDeFuse) ⭐ 10 | 🐛 0 | 📅 2017-03-24 - The sample for introducing functions of the Fuse.
 * [Developer Guides](https://www.fusetools.com/docs) - Getting up and running with Fuse is super easy.
 * [Examples](https://www.fusetools.com/examples) - A list of examples create by Fuse.
@@ -89,7 +89,7 @@ This list is currently unmaintained, and we are looking for a new maintainer. Se
 
 ## Open Source
 
-* [Fuse Samples](https://github.com/fusetools/fuse-samples) ⭐ 182 | 🐛 12 | 🌐 Shell | 📅 2021-04-08 - A collection of smaller examples using the various features of Fuse and FuseJS.
+* [Fuse Samples](https://github.com/fusetools/fuse-samples) ⭐ 182 | 🐛 11 | 🌐 Shell | 📅 2021-04-08 - A collection of smaller examples using the various features of Fuse and FuseJS.
 * [11t](https://github.com/jeroensmeets/mastodon-app) ⭐ 95 | 🐛 0 | 🌐 Dart | 📅 2022-04-26 - 11t is an iOS and Android app for connecting to Mastodon
 * [Firebase](https://github.com/fuse-compound/Fuse.Firebase) ⭐ 57 | 🐛 12 | 🌐 Uno | 📅 2019-10-09 - Firebase bindings for Fuse.
 * [500px Gallery Demo](https://github.com/jveres/D500px) ⚠️ Archived - Nifty gallery demo app using 500px API.
@@ -114,7 +114,7 @@ This list is currently unmaintained, and we are looking for a new maintainer. Se
 ## Plugins
 
 * [Visual Studio Code](https://github.com/Hazealign/vscode-fuse) ⚠️ Archived - Fuse Helper for Visual Studio Code.
-* [Atom](https://github.com/fusetools/Fuse.AtomPlugin) ⭐ 30 | 🐛 18 | 🌐 CoffeeScript | 📅 2017-11-29 - Atom Editor plugin for Fuse.
+* [Atom](https://github.com/fusetools/Fuse.AtomPlugin) ⭐ 29 | 🐛 18 | 🌐 CoffeeScript | 📅 2017-11-29 - Atom Editor plugin for Fuse.
 * [Sublime](https://github.com/fusetools/Fuse.SublimePlugin) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2018-11-20 - Sublime Text 3 plugin for Fuse.
 * [Bash Completion](https://github.com/fusetools/UnoBashCompletion) ⭐ 6 | 🐛 0 | 🌐 Shell | 📅 2016-07-29 - Simple bash completion script for UNO.
 * [Emacs](https://github.com/kristianhasselknippe/fuse-mode) ⭐ 6 | 🐛 7 | 🌐 Emacs Lisp | 📅 2017-11-15 - Emacs plugin for Fuse.
@@ -130,4 +130,4 @@ To the extent possible under law, [Fuse Compound](https://github.com/fuse-compou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
