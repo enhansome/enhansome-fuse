@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50838896,
             "language": "Shell",
             "last_commit": "2021-04-08T12:43:40Z",
             "owner": "fuse-open",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85768677,
             "language": null,
             "last_commit": "2017-03-24T08:12:33Z",
             "owner": "englekk",
@@ -35,7 +37,7 @@
       "title": "Development"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50838896,
             "language": "Shell",
             "last_commit": "2021-04-08T12:43:40Z",
             "owner": "fuse-open",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75263311,
             "language": "Dart",
             "last_commit": "2022-04-26T12:41:51Z",
             "owner": "jeroensmeets",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65795842,
             "language": "Uno",
             "last_commit": "2019-10-09T16:23:18Z",
             "owner": "fuse-compound",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 47932710,
             "language": "JavaScript",
             "last_commit": "2016-07-23T20:38:15Z",
             "owner": "jveres",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64148222,
             "language": "JavaScript",
             "last_commit": "2018-03-09T12:59:35Z",
             "owner": "fuse-open",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55645389,
             "language": "JavaScript",
             "last_commit": "2017-03-28T11:17:27Z",
             "owner": "bolav",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44527177,
             "language": "Haxe",
             "last_commit": "2015-10-19T21:57:01Z",
             "owner": "elsassph",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53864961,
             "language": null,
             "last_commit": "2016-06-27T16:05:46Z",
             "owner": "LuisRodriguezLD",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 65994566,
             "language": "Objective-C++",
             "last_commit": "2017-07-10T15:35:18Z",
             "owner": "AlexGustafsson",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72696193,
             "language": "Objective-C",
             "last_commit": "2016-11-10T00:12:02Z",
             "owner": "englekk",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67326719,
             "language": "JavaScript",
             "last_commit": "2017-10-25T23:54:59Z",
             "owner": "franzsilva",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48105684,
             "language": "JavaScript",
             "last_commit": "2016-07-13T21:34:51Z",
             "owner": "Syncano",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82172167,
             "language": "Uno",
             "last_commit": "2017-02-16T11:20:03Z",
             "owner": "kingwill101",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79899531,
             "language": null,
             "last_commit": "2017-01-24T11:37:13Z",
             "owner": "mokko-labs",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105703551,
             "language": "Uno",
             "last_commit": "2018-02-06T23:30:14Z",
             "owner": "LuisRodriguezLD",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105032849,
             "language": "Uno",
             "last_commit": "2017-10-18T20:09:35Z",
             "owner": "LuisRodriguezLD",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52206392,
             "language": "JavaScript",
             "last_commit": "2016-09-13T20:07:08Z",
             "owner": "sanderdan",
@@ -279,7 +298,7 @@
       "title": "Open Source"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 36088542,
             "language": "Shell",
             "last_commit": "2015-10-18T06:22:39Z",
             "owner": "Nebu1eto",
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46440360,
             "language": "CoffeeScript",
             "last_commit": "2017-11-29T10:36:37Z",
             "owner": "fuse-open",
@@ -316,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25250298,
             "language": "Python",
             "last_commit": "2018-11-20T07:26:33Z",
             "owner": "fuse-open",
@@ -330,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33114030,
             "language": "Shell",
             "last_commit": "2016-07-29T13:12:36Z",
             "owner": "fuse-open",
@@ -344,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35835495,
             "language": "Emacs Lisp",
             "last_commit": "2017-11-15T13:27:26Z",
             "owner": "kristianhasselknippe",
@@ -358,30 +382,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80772658,
             "language": "JavaScript",
             "last_commit": "2017-02-02T21:58:26Z",
             "owner": "bstrr",
             "repo": "vscode-fuse-log",
             "stars": 2
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Alfred Workflow",
-          "description": "Integrate Fuse on Alfred.",
-          "children": []
         }
       ],
       "title": "Plugins"
-    },
-    {
-      "description": "To the extent possible under law, Fuse Compound has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:49:07.365Z",
+    "last_updated": "2026-08-19T11:43:54.051Z",
     "original_repository": "fuse-compound/awesome-fuse",
     "original_repository_sha": "02d2a50b7444a186bf91f9bdb6529817765c44bd",
     "enhanced_repository": "enhansome/enhansome-fuse",
