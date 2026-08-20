@@ -8,7 +8,7 @@
 
 Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.com/fusetools)! 👋
 
-This list is currently unmaintained, and we are looking for a new maintainer. See [here](https://github.com/fuse-compound/awesome-fuse/issues/57) ⭐ 362 | 🐛 0 | 📅 2019-02-25 for details if you're interested.
+This list is currently unmaintained, and we are looking for a new maintainer. See [here](https://github.com/fuse-compound/awesome-fuse/issues/57) ⭐ 363 | 🐛 0 | 📅 2019-02-25 for details if you're interested.
 
 #### Contents
 
@@ -130,4 +130,4 @@ To the extent possible under law, [Fuse Compound](https://github.com/fuse-compou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
