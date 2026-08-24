@@ -21,6 +21,7 @@ This list is currently unmaintained, and we are looking for a new maintainer. Se
 
 ## Applications
 
+* [FuseCloud](https://github.com/fusetools/FuseCloud) ⚠️ Archived - A SoundCloud<sup>®</sup> player that uses the free SoundCloud API [(iOS)](https://itunes.apple.com/us/app/fusecloud/id1173516856) [(Android)](https://play.google.com/store/apps/details?id=com.fuse.fusecloud\&hl=en).
 * [20,000 Leagues Under The Sea](https://itunes.apple.com/us/app/20-000-leagues-under-sea-pathbook/id1187726369) - Interactive book [(​iOS)](https://itunes.apple.com/us/app/20-000-leagues-under-sea-pathbook/id1187726369).
 * [Amphi Festival 2017](http://www.amphi-festival.de/) - Semi-official app for Amphi Festival 2017 [(​iOS)](https://itunes.apple.com/us/app/amphi-festival-2017/id1258744398) [(Android)](https://play.google.com/store/apps/details?id=org.knatten.AmphiFestival2017).
 * [Beer Week](http://gbgbeerweek.se/) - The official app for Gothenburg beer festival [(​iOS)](https://itunes.apple.com/se/app/beer-week/id1094707718) [(Android)](https://play.google.com/store/apps/details?id=com.gbgbeerweek).
@@ -32,7 +33,6 @@ This list is currently unmaintained, and we are looking for a new maintainer. Se
 * [Criminal Mind](https://livingabook.com) - Interactive story book [(​iOS)](https://itunes.apple.com/us/app/mente-criminal-living-a-book/id924788775) [(Android)](https://play.google.com/store/apps/details?id=com.livingabook.mentecriminal).
 * [Dark Forest](https://livingabook.com) - Interactive book [(​iOS)](https://itunes.apple.com/mx/app/dark-forest-living-a-book/id695442145) [(Android)](https://play.google.com/store/apps/details?id=com.livingabook.darkforest).
 * [Deem](http://deemapp.co/) - The ultimate way to see movie reviews worldwide [(​iOS)](https://itunes.apple.com/app/deem-movies/id1057365760) [(Android)](https://play.google.com/store/apps/details?id=com.deem).
-* [FuseCloud](https://github.com/fusetools/FuseCloud) ⚠️ Archived - A SoundCloud<sup>®</sup> player that uses the free SoundCloud API [(iOS)](https://itunes.apple.com/us/app/fusecloud/id1173516856) [(Android)](https://play.google.com/store/apps/details?id=com.fuse.fusecloud\&hl=en).
 * [GameCalculator](https://itunes.apple.com/us/app/gamecalculator/id952709405) - A custom game calculator for parties [(​iOS)](https://itunes.apple.com/us/app/gamecalculator/id952709405) [(Android)](https://play.google.com/store/apps/details?id=com.GameCalculator).
 * [Gig](https://play.google.com/store/apps/details?id=com.littleboat.gig) - Discover local nightlife [(Android)](https://play.google.com/store/apps/details?id=com.littleboat.gig).
 * [Guias Doop](http://guiadoop.com.br/download/) - Celebrity lifestyle guide. [(​iOS)](https://itunes.apple.com/br/app/guias-doop/id1235335392) [(Android)](https://play.google.com/store/apps/details?id=br.com.guiadoop.fuse)

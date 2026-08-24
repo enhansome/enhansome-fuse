@@ -5,6 +5,27 @@
       "items": [
         {
           "node_type": "item",
+          "title": "FuseCloud",
+          "description": "A SoundCloud® player that uses the free SoundCloud API (iOS) (Android).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 76348166,
+            "language": "JavaScript",
+            "last_commit": "2018-02-15T09:53:48Z",
+            "owner": "fusetools",
+            "repo": "FuseCloud",
+            "stars": 79
+          }
+        }
+      ],
+      "title": "Applications"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Samples",
           "description": "Samples demonstrating the use of various Fuse and FuseJS APIs.",
           "children": [],
@@ -395,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:46:43.868Z",
+    "last_updated": "2026-08-24T14:26:17.114Z",
     "original_repository": "fuse-compound/awesome-fuse",
     "original_repository_id": 46132822,
     "original_repository_sha": "02d2a50b7444a186bf91f9bdb6529817765c44bd",
