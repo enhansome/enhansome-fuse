@@ -416,9 +416,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:48:13.626Z",
-    "original_repository": "fuse-compound/awesome-fuse",
-    "original_repository_id": 46132822,
+    "last_updated": "2026-08-27T11:38:27.952Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 46132822,
+      "language": null,
+      "last_commit": "2019-02-25T19:19:14Z",
+      "owner": "fuse-compound",
+      "repo": "awesome-fuse",
+      "stars": 363
+    },
     "original_repository_sha": "02d2a50b7444a186bf91f9bdb6529817765c44bd",
     "enhanced_repository": "enhansome/enhansome-fuse",
     "enhanced_repository_description": null,
