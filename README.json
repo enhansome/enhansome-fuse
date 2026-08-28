@@ -16,7 +16,8 @@
             "owner": "fusetools",
             "repo": "FuseCloud",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         }
       ],
       "title": "Applications"
@@ -37,7 +38,8 @@
             "owner": "fuse-open",
             "repo": "fuse-samples",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         },
         {
           "node_type": "item",
@@ -52,7 +54,8 @@
             "owner": "englekk",
             "repo": "TourDeFuse",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         }
       ],
       "title": "Development"
@@ -73,7 +76,8 @@
             "owner": "fuse-open",
             "repo": "fuse-samples",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         },
         {
           "node_type": "item",
@@ -88,7 +92,8 @@
             "owner": "jeroensmeets",
             "repo": "11t",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "fuse-compound",
             "repo": "Fuse.Firebase",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "jveres",
             "repo": "D500px",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "fuse-open",
             "repo": "hikr",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "bolav",
             "repo": "fusepm",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "elsassph",
             "repo": "fusetools-haxe",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "LuisRodriguezLD",
             "repo": "Fuse-Tags-with-Firebase",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "AlexGustafsson",
             "repo": "fuse-motion",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "englekk",
             "repo": "Fusetools_UnityAdsSample",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "franzsilva",
             "repo": "FusePokeDex",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "Syncano",
             "repo": "syncano-fuse-example",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "kingwill101",
             "repo": "fuse.QrScanner",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "mokko-labs",
             "repo": "fuse-input-validation",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "LuisRodriguezLD",
             "repo": "Fuse-RequestReview",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "LuisRodriguezLD",
             "repo": "Fuse-TapticFeedback",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "sanderdan",
             "repo": "FormulaFuse",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         }
       ],
       "title": "Open Source"
@@ -334,7 +354,8 @@
             "owner": "Nebu1eto",
             "repo": "vscode-fuse",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "fuse-open",
             "repo": "atom-plugin",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "fuse-open",
             "repo": "sublime-plugin",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "fuse-open",
             "repo": "bash-completion",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "kristianhasselknippe",
             "repo": "fuse-mode",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         },
         {
           "node_type": "item",
@@ -409,14 +434,15 @@
             "owner": "bstrr",
             "repo": "vscode-fuse-log",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.135Z"
         }
       ],
       "title": "Plugins"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:03:19.937Z",
+    "last_updated": "2026-08-28T21:26:40.135Z",
     "original_repository_info": {
       "archived": false,
       "id": 46132822,
