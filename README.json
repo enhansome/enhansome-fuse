@@ -616,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T16:58:25.087Z",
+    "last_updated": "2026-09-15T15:35:31.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Fuse applications, articles, and plugins",
@@ -628,7 +628,7 @@
       "open_issues": 0,
       "owner": "fuse-compound",
       "repo": "awesome-fuse",
-      "stars": 364,
+      "stars": 363,
       "topics": [
         "awesome",
         "fuse",
