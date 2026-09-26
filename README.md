@@ -115,7 +115,7 @@ This list is currently unmaintained, and we are looking for a new maintainer. Se
 
 * [Visual Studio Code](https://github.com/Hazealign/vscode-fuse) ⚠️ Archived - Fuse Helper for Visual Studio Code.
 * [Atom](https://github.com/fusetools/Fuse.AtomPlugin) ⭐ 29 | 🐛 18 | 🌐 CoffeeScript | 📅 2017-11-29 - Atom Editor plugin for Fuse.
-* [Sublime](https://github.com/fusetools/Fuse.SublimePlugin) ⭐ 23 | 🐛 4 | 🌐 Python | 📅 2018-11-20 - Sublime Text 3 plugin for Fuse.
+* [Sublime](https://github.com/fusetools/Fuse.SublimePlugin) ⭐ 23 | 🐛 5 | 🌐 Python | 📅 2018-11-20 - Sublime Text 3 plugin for Fuse.
 * [Bash Completion](https://github.com/fusetools/UnoBashCompletion) ⭐ 6 | 🐛 0 | 🌐 Shell | 📅 2016-07-29 - Simple bash completion script for UNO.
 * [Emacs](https://github.com/kristianhasselknippe/fuse-mode) ⭐ 6 | 🐛 7 | 🌐 Emacs Lisp | 📅 2017-11-15 - Emacs plugin for Fuse.
 * [Fuse-Log](https://github.com/bstrr/vscode-fuse-log) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2017-02-02 - Get Fuse log messages into Visual Studio Code's output panel.
@@ -130,4 +130,4 @@ To the extent possible under law, [Fuse Compound](https://github.com/fuse-compou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
