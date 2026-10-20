@@ -50,7 +50,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2021-04-08T12:43:40Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "fuse-open",
             "repo": "fuse-samples",
             "stars": 182,
@@ -102,7 +102,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2021-04-08T12:43:40Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "fuse-open",
             "repo": "fuse-samples",
             "stars": 182,
@@ -520,7 +520,7 @@
             "open_issues": 18,
             "owner": "fuse-open",
             "repo": "atom-plugin",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:40.135Z"
@@ -538,7 +538,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2018-11-20T07:26:33Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "fuse-open",
             "repo": "sublime-plugin",
             "stars": 23,
@@ -616,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T17:32:01.101Z",
+    "last_updated": "2026-10-20T15:40:11.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Fuse applications, articles, and plugins",
