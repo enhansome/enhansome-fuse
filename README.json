@@ -538,7 +538,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2018-11-20T07:26:33Z",
-            "open_issues": 4,
+            "open_issues": 2,
             "owner": "fuse-open",
             "repo": "sublime-plugin",
             "stars": 23,
@@ -616,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T16:43:13.638Z",
+    "last_updated": "2026-10-28T17:11:11.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Fuse applications, articles, and plugins",
